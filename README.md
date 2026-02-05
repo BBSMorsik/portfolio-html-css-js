@@ -22,5 +22,3 @@ Contact form with server submission
 
 Fully responsive layout for mobile and desktop
 
-Demo:
-(Optional: link to GitHub Pages or live version if deployed)
